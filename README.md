@@ -27,9 +27,7 @@ This project consists of a simulated traffic light system built using a test boa
 
 ![WhatsApp Image 2026-02-27 at 16 32 16 (2)](https://github.com/user-attachments/assets/c56a0de9-1b2f-4a1a-bc4b-b6adfc0f95aa)
 
-🎬 Click here to watch the project!
+[🎬 Watch video: Click here to see the project](https://github.com/user-attachments/assets/8aebc655-3774-4e9e-991b-2f7892253190)
 
 
-
-https://github.com/user-attachments/assets/8aebc655-3774-4e9e-991b-2f7892253190
 
