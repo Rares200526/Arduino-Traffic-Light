@@ -19,6 +19,10 @@ This project consists of a simulated traffic light system built using a test boa
 - **3x** 220Ω Resistors
 - Male-to-Male Jumper Wires
 
+## 💻 OrCAD Simulation
+<img width="1919" height="1079" alt="Screenshot 2026-03-04 170728" src="https://github.com/user-attachments/assets/2992d69b-90c6-49e6-a7f2-a66d2a3198bb" />
+
+
 ## 📸 Pictures of the Project
 
 ![WhatsApp Image 2026-02-27 at 16 32 16](https://github.com/user-attachments/assets/ac42c1ea-e674-4961-bae7-f9ae6d2000db)
